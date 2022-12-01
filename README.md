@@ -1,3 +1,3 @@
 # Download-Calculator
 
-![image](https://user-images.githubusercontent.com/39009298/204993522-b2b3be86-4ccc-406c-a09d-dd8c3ba5d975.png)
+![image](https://user-images.githubusercontent.com/39009298/204993700-f2a1e707-57d1-4fe3-a1f5-1fa143b59709.png)
