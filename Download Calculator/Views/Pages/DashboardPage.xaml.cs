@@ -36,6 +36,7 @@ namespace Download_Calculator.Views.Pages
 
         private void TSpeed_TextChanged(object sender, System.Windows.Controls.TextChangedEventArgs e)
         {
+            if (TSpeed.Text == "") return;
             speed = Convert.ToDouble(TSpeed.Text) ;
             CalcualteTimeLeft();
         }
@@ -44,6 +45,7 @@ namespace Download_Calculator.Views.Pages
 
         private void TSize_TextChanged(object sender, System.Windows.Controls.TextChangedEventArgs e)
         {
+            if (TSize.Text == "") return;
             size = Convert.ToDouble(TSize.Text);
             CalcualteTimeLeft();
         }
